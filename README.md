@@ -1,2 +1,16 @@
-# python-chatbot
-GUI Chatbot built with Python and Tkinter
+# Python Chatbot
+
+A GUI chatbot built using Python and Tkinter.
+
+## Features
+- User-friendly interface
+- Interactive conversation
+- Simple desktop application
+
+## Technologies Used
+- Python
+- Tkinter
+
+## Screenshot
+
+![Chatbot Screenshot](screenshot_ka_exact_name.png)
