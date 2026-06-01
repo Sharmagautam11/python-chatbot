@@ -1,0 +1,24 @@
+You: hello
+Bot: Hello Gautam!
+You: joke
+Bot: Programmers love coffee.
+You: motivte me
+Bot: Sorry, I don't understand.
+You: motivate me
+Bot: Keep learning every day.
+You: time
+Bot: 19:01:12
+You: time
+Bot: 19:01:15
+You: time
+Bot: 19:01:16
+You: time
+Bot: 19:01:18
+You: time
+Bot: 19:01:20
+You: time
+Bot: 19:01:22
+You: time
+Bot: 19:01:24
+You: fuck
+Bot: Sorry, I don't understand.
